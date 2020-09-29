@@ -1,4 +1,4 @@
-**/.benchmarks/
+**/**/.benchmarks/
 **/.pytest_cache/
 .idea/
 .vscode/
