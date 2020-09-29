@@ -8,6 +8,7 @@ authors = ["Altynbek <go.gelleson@gmail.com>"]
 python = "^3.8"
 pytest-benchmark = "^3.2.3"
 pytest = "^6.1.0"
+pysnooper = "^0.4.2"
 
 [tool.poetry.dev-dependencies]
 
